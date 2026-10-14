@@ -1,0 +1,10 @@
+﻿class_id,class_name,pixel_count,hex_color
+0,Background,22763779,#000000
+1,Bareland,51808627,#800000
+2,Rangeland,782256442,#00FF24
+3,Developed space,557126499,#949494
+4,Road,231757719,#FFFFFF
+5,Tree,697185142,#226126
+6,Water,112991645,#0045FF
+7,Agriculture land,480329109,#4BB549
+8,Building,544701866,#DE1F07

@@ -1,0 +1,50 @@
+{
+    "audit_version": "R0",
+    "dataset": {
+        "name": "OpenEarthMap",
+        "subset": "Tokyo",
+        "root": "D:\\OpenEarthMap\\OpenEarthMap\\OpenEarthMap_wo_XBD\\tokyo"
+    },
+    "image": {
+        "count": 70,
+        "size": [
+            1024,
+            1024
+        ],
+        "mode": "RGB",
+        "format": "TIFF"
+    },
+    "label": {
+        "count": 49,
+        "size": [
+            1024,
+            1024
+        ],
+        "mode": "L",
+        "format": "TIFF"
+    },
+    "image_label_relationship": {
+        "images_with_labels": 49,
+        "missing_labels": 21,
+        "extra_labels": 0,
+        "size_mismatch": 0
+    },
+    "official_split_files": {
+        "train": 3000,
+        "val": 500,
+        "test": 1500,
+        "train_val_overlap": 0,
+        "train_test_overlap": 0,
+        "val_test_overlap": 0,
+        "total_split_entries": 5000,
+        "tokyo_images_in_split": 70
+    },
+    "audit_status": {
+        "directory_check": "PASS",
+        "image_label_check": "PASS_WITH_MISSING_LABELS",
+        "split_overlap_check": "PASS",
+        "image_size_check": "PASS",
+        "label_size_check": "PASS",
+        "image_label_size_match": "PASS"
+    }
+}

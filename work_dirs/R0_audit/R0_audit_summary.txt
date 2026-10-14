@@ -1,0 +1,32 @@
+OpenEarthMap R0 DATA AUDIT SUMMARY
+======================================================================
+
+数据目录：D:\OpenEarthMap\OpenEarthMap\OpenEarthMap_wo_xBD
+
+本地地区数量：97
+本地影像数量：3838
+本地标签数量：3500
+有效 image-label pair：2687
+OpenEarthMap 官方国家数量：44
+OpenEarthMap 官方地区数量：97
+OpenEarthMap 官方类别数量：8
+
+类别像素统计
+----------------------------------------------------------------------
+0 Background: 22763779
+1 Bareland: 51808627
+2 Rangeland: 782256442
+3 Developed space: 557126499
+4 Road: 231757719
+5 Tree: 697185142
+6 Water: 112991645
+7 Agriculture land: 480329109
+8 Building: 544701866
+
+抽查 image-label 数量：50
+空间对齐异常：0
+异常标签文件：0
+损坏影像：0
+损坏标签：0
+重复影像组：0
+重复标签组：0
